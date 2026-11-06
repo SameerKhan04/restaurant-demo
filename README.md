@@ -1,4 +1,4 @@
-# Lahori Pakwan — unofficial website concept
-Built by Sameer Khan for a pitch. Not the restaurant's official site.
-Live: https://sameerkhan04.github.io/lahori-pakwan-demo/
-Only public facts are used. Hours and street address marked as confirm-with-shop where unverified.
+# Restaurant website template (Sameer Khan Web)
+Generic placeholder brand ("Your Restaurant"). Sample dishes only. Demo cart and booking are front-end mocks.
+Live: https://sameerkhan04.github.io/restaurant-demo/
+Stock photos: Unsplash (free licence). No real business identity.
